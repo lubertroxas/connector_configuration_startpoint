@@ -1,2 +1,2 @@
-# connector_configuration_startpoint
+# Connector Configuration Start Point
 Suggested Initial Settings for Starburst Connectors
