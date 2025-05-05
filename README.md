@@ -4,17 +4,17 @@ Suggested Initial Settings for Starburst Connectors
 ## Object Storage Connectors
 - Hive - Done
 - Iceberg - Done 
-- Delta Lake
+- Delta Lake - In progress
 
 ## Non-Object Storage Connectors
 ### General Guidelines for JDBC Connectors
-- Teradata
+- Teradata DONE
     - JDBC Connector DONE
     - Direct Connector DONE
 - Big Query IN PROGRESS branch bigquery
 - PostgreSQL
 - MySQL
-- Oracle - in progress branch oracle
+- Oracle DONE
 - Snowflake
     - Snowflake JDBC Connector DONE
     - Snowflake Parallel Connector DONE
