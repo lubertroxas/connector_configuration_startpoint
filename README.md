@@ -2,8 +2,8 @@
 Suggested Initial Settings for Starburst Connectors
 
 ## Object Storage Connectors
-- Hive IN PROGRESS brach hive
-- Iceberg
+- Hive - Done
+- Iceberg - Done 
 - Delta Lake
 
 ## Non-Object Storage Connectors
@@ -14,7 +14,7 @@ Suggested Initial Settings for Starburst Connectors
 - Big Query IN PROGRESS branch bigquery
 - PostgreSQL
 - MySQL
-- Oracle
+- Oracle - in progress branch oracle
 - Snowflake
     - Snowflake JDBC Connector DONE
     - Snowflake Parallel Connector DONE
