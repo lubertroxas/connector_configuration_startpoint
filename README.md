@@ -23,5 +23,3 @@ Suggested Initial Settings for Starburst Connectors - Tested on LTS 476.e-5
 
 ## Special Connectors
 - [ ] Stargate
-
-Note: Still need to check for correctness. Tested on 468.5.0
