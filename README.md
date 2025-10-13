@@ -13,15 +13,15 @@ Suggested Initial Settings for Starburst Connectors - Tested on LTS 476.e-5
     - Direct Connector 
 - [ ] Big Query IN PROGRESS branch bigquery
 - [X] SQL Server
-- [ ]PostgreSQL
+- [ ] PostgreSQL
 - [ ] MySQL
 - [X] Oracle 
 - [X] Snowflake
-    - Snowflake JDBC Connector DONE
-    - Snowflake Parallel Connector DONE
-- Redshift
+    - Snowflake JDBC Connector 
+    - Snowflake Parallel Connector 
+- [ ] Redshift
 
 ## Special Connectors
-- Stargate
+- [ ] Stargate
 
 Note: Still need to check for correctness. Tested on 468.5.0
